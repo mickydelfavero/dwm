@@ -24,6 +24,8 @@ Default layout is *float*
 
 *MODKEY* is *left-windows* key
 
+MODKEY + key       | action
+------------------ | ------------------------
 MODKEY p           | dmenu
 MODKEY t           | urxvt
 MODKEY Shift t     | urxvt -geometry 120x48
